@@ -97,7 +97,7 @@
     display: block;
     width: 195px;
   }
-  .pre-title {
+  .pre-title, [lang=x-pretitle] {
     margin: 0;
     padding: 0;
     font-family: Roboto;
