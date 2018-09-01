@@ -84,7 +84,7 @@
       }
 
 
-  .header {
+  .header, [lang=x-header] {
     background-color: #fff;
     height: 109px;
   }
